@@ -1,0 +1,32 @@
+1. Part1/2/condition/Ebb.java
+Ответ: D
+
+2. Part1/2/condition/Equal.java
+Ответ: C
+
+3. Part1/2/condition/Flipper.java
+Ответ: A
+
+4. Part1/2/condition/Hexy.java
+Ответ: E, потому что не указано, что класс является публичным, если не учитывать это, то D
+
+5. Part1/2/condition/SpecialOps.java
+Ответ: C
+
+6. Part1/2/types/Cowboys.java
+Ответ: A
+
+7. Part1/2/types/Dark.java
+Ответ: E
+
+8. Part1/2/types/Feline.java
+Ответ: I, потому что не указано, что класс является публичным, если не учитывать это, то G
+
+9. Part1/2/types/Fishing.java
+Ответ: E
+
+10. Part1/2/types/Lines.java
+Ответ: C, E
+
+11. Part1/2/types/Mutant.java
+Ответ: D, A
