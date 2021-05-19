@@ -25,11 +25,15 @@ public class Palindrome {
             return;
         }
 
-        if (isPalindromeMoreEfficient(line)) {
+        if (isPalindromeMoreEfficient(improveString(line))) {
             System.out.println("Является палиндромом");
         } else {
             System.out.println("Не палиндром");
         }
+    }
+
+    public static String improveString(String string) {
+        return string.replaceAll("[^A-Za-zА-Яа-я]", "").toLowerCase();
     }
 
     public static boolean isPalindrome(String string) {
